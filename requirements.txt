@@ -1,0 +1,11 @@
+huggingface_hub==0.22.2
+transformers   
+bitsandbytes 
+accelerate
+spaces
+datasets
+gradio_multimodalchatbot
+haversine
+langchain
+geopy
+gradio==4.36.1
